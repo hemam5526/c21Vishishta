@@ -1,1 +1,2 @@
-# c21Vishishta
+# collisionAlgorithm
+Algorithm to detect collision between two objects
